@@ -10,6 +10,5 @@ class Dice:
     def tossandsum(self):
         toss = 0
         for i in range(self.numberOfRolls):
-            diceroll = random.randint(1, 6)
-            toss = toss + diceroll
+            toss = toss + random.randint(1, 6)
         return toss

@@ -6,13 +6,6 @@ class Simulation:
         dice1 = Dice(2)
         bin = Bins(2)
 
-        for x in range (1, 1000000):
-            sum = dice1.tossandsum()
-
-
-
-
-
     def __init__(self, numberdice, numberrolls):
         self.numberOfDice = numberdice
         self.numberOfRolls = numberrolls

@@ -3,7 +3,7 @@ from dice import Dice
 
 class Simulation:
         dice1 = Dice(2)
-        bin = bins(2)
+        bin = Bins(2)
 
         for x in range (1, 1000000):
             sum = dice1.tossandsum()
@@ -14,5 +14,5 @@ class Simulation:
             print(x + "  |")
             print(bin[x] +  "  |")
             print(bin[x / 1000000 + "  |"])
-            for x in range(1,bin[x]):
+            for y in range(1,bin[x]):
                 print ("*")

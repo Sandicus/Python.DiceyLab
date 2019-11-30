@@ -1,10 +1,10 @@
 from src.main.python.dice import Dice
-# from src.main.python.bins import ?????
+from src.main.python.bins import Bins
 
 
 class Simulation:
-        dice1 = Dice(2)
-        bin = Bins(2)
+    dice1 = Dice(2)
+    bin = Bins(2)
 
     def __init__(self, numberdice, numberrolls):
         self.numberOfDice = numberdice

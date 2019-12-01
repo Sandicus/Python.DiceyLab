@@ -9,4 +9,6 @@ class Bins:
             result ={x:0}
             bin.append(result)
 
+
         return bin
+

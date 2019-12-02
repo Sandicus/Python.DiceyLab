@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1dea615-6a67-401a-b9b7-ff2be72f038d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/python/dicey_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/src/main/python/simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/python/simulation.py" afterDir="false" />
-=======
-
       <change beforePath="$PROJECT_DIR$/src/main/python/bins.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/python/bins.py" afterDir="false" />
->>>>>>> b98cee842bfa7294989e55de025c718dd23edd19
+      <change beforePath="$PROJECT_DIR$/src/main/python/dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/python/dice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/python/simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/python/simulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/python/dicey_test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1UIJ7kCQHmXFu8OroN8a3GDu31o" />
+  <component name="ProjectId" id="1UQlrsEFqHdUs5SVnGkTL81zU7c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -75,6 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;dicey_test.MyTestCase.test_something&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -96,8 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574867906960</updated>
-      <workItem from="1574867908094" duration="2215000" />
-      <workItem from="1575038011716" duration="92000" />
+      <workItem from="1574867908094" duration="3343000" />
     </task>
     <servers />
   </component>

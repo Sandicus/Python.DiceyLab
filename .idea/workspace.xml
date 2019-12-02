@@ -3,15 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f1dea615-6a67-401a-b9b7-ff2be72f038d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/main/python/simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/python/simulation.py" afterDir="false" />
-=======
 
       <change beforePath="$PROJECT_DIR$/src/main/python/bins.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/python/bins.py" afterDir="false" />
->>>>>>> b98cee842bfa7294989e55de025c718dd23edd19
->>>>>>> 9e2ad0331af3afab1a9fb0b0509d67085bddeb64
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +24,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -48,9 +41,7 @@
     <option name="width" value="990" />
     <option name="height" value="777" />
   </component>
-=======
   <component name="ProjectId" id="1UIJ7kCQHmXFu8OroN8a3GDu31o" />
->>>>>>> 9e2ad0331af3afab1a9fb0b0509d67085bddeb64
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -119,7 +110,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574867906960</updated>
-<<<<<<< HEAD
       <workItem from="1574867908094" duration="3343000" />
     </task>
     <servers />
@@ -154,13 +144,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-=======
       <workItem from="1574867908094" duration="2215000" />
       <workItem from="1575038011716" duration="92000" />
     </task>
     <servers />
   </component>
->>>>>>> 9e2ad0331af3afab1a9fb0b0509d67085bddeb64
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>

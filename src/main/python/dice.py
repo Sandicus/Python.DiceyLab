@@ -7,7 +7,7 @@ class Dice:
     def __init__(self, numrolls):
         self.numberOfRolls = numrolls
 
-    def tossandsum(self):
+    def tossAndSum(self):
         toss = 0
         for i in range(self.numberOfRolls):
             toss = toss + random.randint(1, 6)

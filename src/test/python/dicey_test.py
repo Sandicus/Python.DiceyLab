@@ -6,19 +6,15 @@ from src.main.python.simulation import Simulation
 
 class TestDiceyLab(unittest.TestCase):
     def test_createBin(self):
-        res = Bins(5).create_bin()
-        self.assertTrue(res, 150)
+        bins = Bins(5)
+        bins.create_bin()
+        self.assertTrue(len(bins.list), 26)
 
     def test_tossAndSum(self):
-        num = Dice(5).tossAndSum()
-        self.assertTrue(num, int)
-
-    # def test_runSimulation(self):
-    #     sim = Simulation(100, 100).runSimulation()
-    #     self.assertTrue(sim, 3)
-
-    #def test_printStars(self):
-        #stars
+        for x in range(0, 10000):
+            num = Dice(5).tossAndSum()
+            self.assertTrue(num <= 30)
+            self.assertTrue(num >= 5)
 
 
 

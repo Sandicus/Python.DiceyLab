@@ -2,13 +2,12 @@ import random
 
 
 class Dice:
-    MAX = 6
 
-    def __init__(self, numrolls):
-        self.numberOfRolls = numrolls
+    def __init__(self, numDice):
+        self.numberOfDice = numDice
 
     def tossAndSum(self):
         toss = 0
-        for i in range(self.numberOfRolls):
+        for i in range(self.numberOfDice):
             toss = toss + random.randint(1, 6)
         return toss

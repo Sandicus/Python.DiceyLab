@@ -1,11 +1,15 @@
 class Bins:
 
-    def __init__(self, numrolls):
-        self.numberOfRolls = numrolls
+    def __init__(self, numDice):
+        self.numberOfDice = numDice
+        self.list = []
+
 
     def create_bin(self):
-        list = []
-        for x in range(self.numberOfRolls, self.numberOfRolls * 6):
-            list.append(0)
+        for x in range(self.numberOfDice, self.numberOfDice * 6 + 1):
+            self.list.append(0)
 
-        return list
+    def increment_bin(self,sum):
+        index = sum - self.numberOfDice
+        checkthis = self.list[index] + 1
+        self.list[index] = checkthis

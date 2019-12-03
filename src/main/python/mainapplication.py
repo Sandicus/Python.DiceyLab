@@ -1,4 +1,4 @@
 from src.main.python.simulation import Simulation
 
-sim = Simulation(10,500);
+sim = Simulation(3,10000);
 sim.runSimulation()
